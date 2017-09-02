@@ -1,8 +1,8 @@
 class Mysql < Formula
   desc "Open source relational database management system"
-  homepage "https://dev.mysql.com/doc/refman/5.6/en/"
-  url "https://dev.mysql.com/Downloads/MySQL-5.6/mysql-5.6.29.tar.gz"
-  sha256 "6ac85b75b2dfa8c232725dda25469df37bf4e48b408cc0978d0dfc34c25a817f"
+  homepage "https://dev.mysql.com/doc/refman/5.7/en/"
+  url "https://dev.mysql.com/Downloads/MySQL-5.7/mysql-5.7.16.tar.gz"
+  sha256 "4935b59974edb275629f6724a0fcf72265a5845faf1e30eeb50ed4b6528318a5"
 
   option :universal
   option "with-tests", "Build with unit tests"
